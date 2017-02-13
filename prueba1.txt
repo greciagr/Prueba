@@ -1,1 +1,6 @@
 Acrhivo agregado de la rama feature-a
+<<<<<<< HEAD
+=======
+agregando
+agregando
+>>>>>>> feature-a
